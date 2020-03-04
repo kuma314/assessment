@@ -1,0 +1,66 @@
+<!DOCTIPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>PrivateHome</title>
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <div id="logo">
+        <img src="" alt="">
+      </div>
+      <section>
+        <a href="">詳細検索</a>
+        <p>検索欄設置場所</p>
+        <a href="">ジャンルで検索</a>
+      </section>
+　　　<section>
+        <a href="">設定</a>
+      <section>
+      <nav>
+        <ul>
+          <li><a href="">ホーム</a></li>
+          <li><a href="">通知</a></li>
+          <li><a href="">マイリスト</a></li>
+          <li><a href="">マイページ</a></li>
+        </ul>
+      </nav>
+    </header>
+    <article>
+      <section class="new-topic">
+        <h2>最新トピック</h2>
+        <ul>
+          <li>
+          <a href="">もっと見る</a>
+          </li>
+          <li>
+          <a href="">もっと見る</a>
+          </li>
+        </ul>
+      </section>
+      <section class="hot-topic">
+        <h2>注目されてるトピック</h2>
+        <ul>
+          <li>
+          <a href="">もっと見る</a>
+          </li>
+          <li>
+          <a href="">もっと見る</a>
+          </li>
+        </ul>
+      </section>
+      <section class="new-mylist">
+        <h2>マイリストの最新情報</h2>
+        <ul>
+          <li>
+          <a href="">もっと見る</a>
+          </li>
+        </ul>
+      </section>
+    </article>
+    <footer>
+    </footer>
+  </body>
+</html>
